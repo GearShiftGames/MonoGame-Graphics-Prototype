@@ -1,0 +1,27 @@
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame Graphics Prototype.exe
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame Graphics Prototype.pdb
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.csprojResolveAssemblyReference.cache
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.exe
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.pdb
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\stick.xnb
+c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\basic_font.xnb
