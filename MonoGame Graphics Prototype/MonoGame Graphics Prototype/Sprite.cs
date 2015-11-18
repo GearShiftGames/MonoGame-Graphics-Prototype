@@ -16,13 +16,15 @@ namespace MonoGame_Graphics_Prototype {
                     scale;
 
         // Initialiser(s)
+        public Sprite() { }
+
         public Sprite(Texture2D inTexture, float inX, float inY,
             float inRotation = 0, float inScale = 1, float inOriginX = -1, float inOriginY = -1) {
 
             texture = inTexture;
             position.X = inX;
             position.Y = inY;
-            if (origin.X == -1) {
+            if (inOriginX == -1) {
                 origin.X = inX + (texture.Width / 2);
                 origin.Y = inY + (texture.Height / 2);
             }
@@ -40,8 +42,7 @@ namespace MonoGame_Graphics_Prototype {
 
         public float getRotationDegrees() { return rotationDegrees; }
 
-        public float getRotationRadians()
-        {
+        public float getRotationRadians() {
             float radians = rotationDegrees * (3.1415f / 180);
             return radians;
         }

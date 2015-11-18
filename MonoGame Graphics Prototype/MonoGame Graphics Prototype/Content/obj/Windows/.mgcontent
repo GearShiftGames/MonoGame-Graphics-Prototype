@@ -4,7 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/users/nathan/documents/visual studio 2013/Projects/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/stick.png</File>
-    <File>c:/users/nathan/documents/visual studio 2013/Projects/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/basic_font.spritefont</File>
+    <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/stick.png</File>
+    <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/basic_font.spritefont</File>
   </SourceFiles>
 </SourceFileCollection>

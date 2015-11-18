@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>c:/users/nathan/documents/visual studio 2013/Projects/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/stick.png</SourceFile>
+  <SourceFile>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/stick.png</SourceFile>
   <SourceTime>2015-11-13T10:37:54.1996578+00:00</SourceTime>
-  <DestFile>c:/users/nathan/documents/visual studio 2013/Projects/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/bin/Windows/stick.xnb</DestFile>
-  <DestTime>2015-11-18T13:30:49.4786499+00:00</DestTime>
+  <DestFile>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/bin/Windows/stick.xnb</DestFile>
+  <DestTime>2015-11-18T13:45:01.1731605+00:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

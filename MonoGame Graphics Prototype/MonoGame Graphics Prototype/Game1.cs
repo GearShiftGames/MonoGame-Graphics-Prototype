@@ -27,7 +27,7 @@ namespace MonoGame_Graphics_Prototype {
         protected override void LoadContent() {
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            sprite = new Sprite(Content.Load<Texture2D>("stick"), 50.0f, 50.0f, 0.0f, 3.0f);
+            sprite = new Sprite(Content.Load<Texture2D>("stick"), 50.0f, 50.0f, 180.0f, 3.0f);
             font = Content.Load<SpriteFont>("basic_font");
         }
 
@@ -73,8 +73,9 @@ namespace MonoGame_Graphics_Prototype {
             spriteBatch.Begin();
 
             drawSprite(sprite);
-            drawText("Time Elapsed: " + gameTime.TotalGameTime.TotalMilliseconds, 10.0f, 10.0f, Color.Black);
-
+            //drawText("Time Elapsed: " + gameTime.TotalGameTime.TotalMilliseconds, 10.0f, 10.0f, Color.Black);
+            drawText("Origin X = " + sprite.getOrigin().X, 15.0f, 15.0f, Color.Black);
+            drawText("Origin Y = " + sprite.getOrigin().Y, 35.0f, 35.0f, Color.Black);
             spriteBatch.End();
 
             base.Draw(gameTime);

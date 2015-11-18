@@ -25,3 +25,30 @@ c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototyp
 c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.pdb
 c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\stick.xnb
 c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\basic_font.xnb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.exe
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.pdb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\basic_font.xnb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\stick.xnb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame Graphics Prototype.exe
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame Graphics Prototype.pdb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.csprojResolveAssemblyReference.cache
