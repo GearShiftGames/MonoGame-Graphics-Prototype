@@ -9,7 +9,7 @@ namespace MonoGame_Graphics_Prototype {
         SpriteBatch spriteBatch;
 
         SpriteFont font;
-        Sprite sprite;
+        AnimatedSprite sprite;
 
         public Game1() {
             graphics = new GraphicsDeviceManager(this);
@@ -27,7 +27,7 @@ namespace MonoGame_Graphics_Prototype {
         protected override void LoadContent() {
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            sprite = new Sprite(Content.Load<Texture2D>("stick"), 50.0f, 50.0f, 180.0f, 3.0f);
+            sprite = new AnimatedSprite(Content.Load<Texture2D>("stick"), 50.0f, 50.0f, 64, 64, 500);
             font = Content.Load<SpriteFont>("basic_font");
         }
 
@@ -36,8 +36,12 @@ namespace MonoGame_Graphics_Prototype {
         }
 
         protected override void Update(GameTime gameTime) {
-            /*if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
-                Exit();*/
+
+            if (sprite.getCurrentState() == 1) {
+                if (gameTime.TotalGameTime.TotalMilliseconds - sprite.getLastTime() > sprite.getFrameTime()) {
+                    sprite.changeFrame(gameTime.TotalGameTime.TotalMilliseconds);
+                }
+            }
 
             base.Update(gameTime);
         }
@@ -53,9 +57,17 @@ namespace MonoGame_Graphics_Prototype {
         }
 
         // Draws an animated sprite from all it's variables information
-        //public void drawAnimatedSprite(AnimatedSprite s) {
-            //TO DO: Implement me please
-        //}
+        public void drawAnimatedSprite(AnimatedSprite s) {
+            Rectangle destination = new Rectangle(  (int) s.getPosition().X,
+                                                    (int) s.getPosition().Y,
+                                                    s.getFrameWidth(),
+                                                    s.getFrameHeight());
+            Rectangle source = new Rectangle(s.getFrameWidth() * s.getCurrentHorizontal(),
+                                              s.getFrameHeight() * s.getCurrentVertical(),
+                                              s.getFrameWidth(),
+                                              s.getFrameHeight());
+            spriteBatch.Draw(s.getTexture(), destination, source, Color.White);
+        }
 
         // Uses only the standard font
         public void drawText(string inText, float inX, float inY, Color inColor) {
@@ -72,10 +84,8 @@ namespace MonoGame_Graphics_Prototype {
 
             spriteBatch.Begin();
 
-            drawSprite(sprite);
-            //drawText("Time Elapsed: " + gameTime.TotalGameTime.TotalMilliseconds, 10.0f, 10.0f, Color.Black);
-            drawText("Origin X = " + sprite.getOrigin().X, 15.0f, 15.0f, Color.Black);
-            drawText("Origin Y = " + sprite.getOrigin().Y, 35.0f, 35.0f, Color.Black);
+            drawAnimatedSprite(sprite);
+
             spriteBatch.End();
 
             base.Draw(gameTime);

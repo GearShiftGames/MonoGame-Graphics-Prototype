@@ -1,4 +1,15 @@
-﻿using System;
+﻿/* Monogame Graphics Prototype
+ * Sprite Class
+ * Written by Nathan Headley
+ * 13/11/2015
+ */
+
+/* Change Log
+ * 
+ * 20/11/15 - Depricated custom origins
+ */
+
+using System;
 using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
@@ -18,16 +29,13 @@ namespace MonoGame_Graphics_Prototype {
         // Initialiser(s)
         public Sprite() { }
 
-        public Sprite(Texture2D inTexture, float inX, float inY,
-            float inRotation = 0, float inScale = 1, float inOriginX = -1, float inOriginY = -1) {
+        public Sprite(Texture2D inTexture, float inX, float inY, float inRotation = 0, float inScale = 1) {
 
             texture = inTexture;
             position.X = inX;
             position.Y = inY;
-            if (inOriginX == -1) {
-                origin.X = inX + (texture.Width / 2);
-                origin.Y = inY + (texture.Height / 2);
-            }
+            origin.X = inX + (texture.Width / 2);
+            origin.Y = inY + (texture.Height / 2);
             rotationDegrees = inRotation;
             scale = inScale;
         }
