@@ -6,8 +6,8 @@
 
 /* Change Log
  * 
- * Works with different animations in one sprite sheet
- *  - startAnimation(line number) will decide which animation to play
+ * 20/11/15 - Works with different animations in one sprite sheet
+ *              - startAnimation(line number) will decide which animation to play
  *  
  */
 
@@ -60,6 +60,12 @@ namespace MonoGame_Graphics_Prototype {
         public void startAnimation(int inAnimation) {
             currentVertical = inAnimation;
             currentState = 1;
+        }
+
+        // Method to stop animating
+        public void stopAnimation() {
+            currentVertical = 0;
+            currentState = 0;
         }
 
         // Getters - no need for setters that i've found?
