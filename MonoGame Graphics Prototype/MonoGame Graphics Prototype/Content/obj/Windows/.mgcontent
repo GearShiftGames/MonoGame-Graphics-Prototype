@@ -6,5 +6,12 @@
   <SourceFiles>
     <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/stick.png</File>
     <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/basic_font.spritefont</File>
+    <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/animZombie.bmp</File>
+    <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/particle.png</File>
+    <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/particle2.png</File>
+    <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/particle3.png</File>
+    <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/particle4.png</File>
+    <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/particle5.png</File>
+    <File>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/particle6.png</File>
   </SourceFiles>
 </SourceFileCollection>

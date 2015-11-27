@@ -25,9 +25,9 @@ c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototyp
 c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.pdb
 c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\stick.xnb
 c:\users\nathan\documents\visual studio 2013\Projects\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\basic_font.xnb
-C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.exe
-C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.pdb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\animZombie.xnb
 C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\basic_font.xnb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\particle.xnb
 C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\stick.xnb
 C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame Graphics Prototype.exe
 C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\MonoGame Graphics Prototype.pdb
@@ -51,4 +51,11 @@ C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics
 C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.XInput.xml
 C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.RawInput.xml
 C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.exe
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.pdb
 C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\obj\x86\Debug\MonoGame Graphics Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\particle2.xnb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\particle3.xnb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\particle4.xnb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\particle5.xnb
+C:\Users\Nathan\Documents\MonoGame\MonoGame Graphics Prototype\MonoGame Graphics Prototype\bin\Windows\Debug\Content\particle6.xnb

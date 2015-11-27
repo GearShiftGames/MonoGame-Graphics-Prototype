@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/stick.png</SourceFile>
-  <SourceTime>2015-11-20T11:33:48.514714+00:00</SourceTime>
-  <DestFile>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/bin/Windows/stick.xnb</DestFile>
-  <DestTime>2015-11-27T11:47:34.2676825+00:00</DestTime>
+  <SourceFile>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/particle6.png</SourceFile>
+  <SourceTime>2015-11-27T11:42:25.193646+00:00</SourceTime>
+  <DestFile>C:/Users/Nathan/Documents/MonoGame/MonoGame Graphics Prototype/MonoGame Graphics Prototype/Content/bin/Windows/particle6.xnb</DestFile>
+  <DestTime>2015-11-27T11:47:35.1884388+00:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
